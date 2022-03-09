@@ -1,0 +1,15 @@
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\gdir.exe
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\gdir.deps.json
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\gdir.runtimeconfig.json
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\gdir.dll
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\ref\gdir.dll
+C:\Users\TG456GS\source\repos\Directory\gdir\bin\Debug\net6.0\gdir.pdb
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.csproj.AssemblyReference.cache
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.AssemblyInfoInputs.cache
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.AssemblyInfo.cs
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.csproj.CoreCompileInputs.cache
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.dll
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\ref\gdir.dll
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.pdb
+C:\Users\TG456GS\source\repos\Directory\gdir\obj\Debug\net6.0\gdir.genruntimeconfig.cache
